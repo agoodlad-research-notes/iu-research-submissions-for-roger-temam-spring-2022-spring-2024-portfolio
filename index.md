@@ -7,10 +7,8 @@ During the 2024 fall semester, I taught Logic (Math-M384) as a part-time instruc
 
 My lecture notes for this class, which I would give during my weekly online office hours, are divided by chapters on the book we use, which was the 2nd edition of A Mathematical Introduction to Logic by Herbert B. Enderton.
 
--[Algebra I Week 0 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/bisimulations-on-finitary-functors-possible-paper-outline-and-abstract-fall-2021.pdf)
+-[Algebra I Week 3 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/m800-roger-temam-4-8-corrected-report-4-22-rough-draft.pdf)
 
--[Algebra I Week 1 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/notes-on-coalgebras-on-measurable-spaces-and-coalgebraic-modal-logic-summer-fall-2021.pdf)
+-[Algebra I Week 0 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/m800-roger-temam-4-15-report-5-4-rough-draft.pdf)
 
--[Algebra I Week 3 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/notes-on-induction-recursion-coinduction-and-corecursion-spring-2021.pdf)
-
--[Algebra I Week 2 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/explicit-free-equational-algebras-outline-and-abstract-summer-fall-2021.pdf)
+-[Algebra I Week 1 Class Notes ()](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/m800-roger-temam-4-22-report-5-4-rough-draft.pdf)
