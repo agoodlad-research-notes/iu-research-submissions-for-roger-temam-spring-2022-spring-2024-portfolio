@@ -1,4 +1,4 @@
-## IU Covid Era Spring 2020-Fall 2021 Portfolio
+## IU Research Submissions for Roger Temam Spring 2022-Spring 2024 Portfolio
 
 %GIVE DESCRIPTION ABOUT THIS PAGE, THEN UPLOAD LOGIC RESEARCH NOTES
 %THEN MAKE REPOSITORY ABOUT ROGER TEMAM PAPERS
