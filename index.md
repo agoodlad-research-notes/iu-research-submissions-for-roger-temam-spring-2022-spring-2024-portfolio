@@ -7,14 +7,14 @@ During the 2024 fall semester, I taught Logic (Math-M384) as a part-time instruc
 
 My lecture notes for this class, which I would give during my weekly online office hours, are divided by chapters on the book we use, which was the 2nd edition of A Mathematical Introduction to Logic by Herbert B. Enderton.
 
--[Algebra I Week 3 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-corrected-report-4-22-rough-draft.pdf)
+-[M800 Roger Temam 4-8-22 Corrected Report (4-22-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-corrected-report-4-22-rough-draft.pdf)
 
--[Algebra I Week 0 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-15-report-5-4-rough-draft.pdf)
+-[M800 Roger Temam 4-15-22 Report (5-4-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-15-report-5-4-rough-draft.pdf)
 
--[Algebra I Week 1 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-report-5-4-rough-draft.pdf)
+-[M800 Roger Temam 4-22-22 Report (5-4-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-report-5-4-rough-draft.pdf)
 
--[Algebra I Week 3 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-22-report-7-19-22-rough-draft.pdf)
+-[M800 Roger Temam 4-22-22 Report (7-19-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-22-report-7-19-22-rough-draft.pdf)
 
--[Algebra I Week 0 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-29-22-report-8-10-rough-draft.pdf)
+-[M800 Roger Temam 4-29-22 Report (8-10-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-29-22-report-8-10-rough-draft.pdf)
 
--[Algebra I Week 1 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-8-30-rough-draft.pdf)
+-[M800 Roger Temam 4-8-22 Report (8-30-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-8-30-rough-draft.pdf)
