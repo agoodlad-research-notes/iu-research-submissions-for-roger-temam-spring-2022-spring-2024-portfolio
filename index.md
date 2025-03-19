@@ -12,3 +12,9 @@ My lecture notes for this class, which I would give during my weekly online offi
 -[Algebra I Week 0 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-15-report-5-4-rough-draft.pdf)
 
 -[Algebra I Week 1 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-report-5-4-rough-draft.pdf)
+
+-[Algebra I Week 3 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-22-report-7-19-22-rough-draft.pdf)
+
+-[Algebra I Week 0 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-29-22-report-8-10-rough-draft.pdf)
+
+-[Algebra I Week 1 Class Notes ()](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-8-30-rough-draft.pdf)
