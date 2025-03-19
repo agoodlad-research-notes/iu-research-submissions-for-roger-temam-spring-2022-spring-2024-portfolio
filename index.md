@@ -15,6 +15,6 @@ My lecture notes for this class, which I would give during my weekly online offi
 
 -[M800 Roger Temam 4-22-22 Report (7-19-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-22-report-7-19-22-rough-draft.pdf)
 
--[M800 Roger Temam 4-29-22 Report (8-10-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-29-22-report-8-10-rough-draft.pdf)
+-[M800 Roger Temam 4-29-22 Report (8-10-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-29-22-report-8-10-22-rough-draft.pdf)
 
--[M800 Roger Temam 4-8-22 Report (8-30-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-8-30-rough-draft.pdf)
+-[M800 Roger Temam 4-8-22 Report (8-30-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-8-30-22-rough-draft.pdf)
