@@ -25,16 +25,16 @@ Summer/Fall 2022 Semester
 
 Spring 2023 Semester
 
--[M800 Roger Temam 4-8-22 Report (1-17-23 Rough Draft)]()
+-[M800 Roger Temam 4-8-22 Report (1-17-23 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-1-17-23-rough-draft.pdf)
 
--[M800 Roger Temam 4-4-23 Report (First Draft)]()
+-[M800 Roger Temam 4-4-23 Report (First Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-4-23-report-first-draft.pdf)
 
 Summer/Fall 2023 Semester
 
--[Notes on New Skorohod Theorem Proof (6-15-23 Unofficial Rough Draft)]()
+-[Notes on New Skorohod Theorem Proof (6-15-23 Unofficial Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/notes-on-new-skorohod-theorem-proof-6-15-23-unofficial-rough-draft.pdf)
 
--[Notes on New Skorohod Theorem Proof (7-11-23 Update)]()
+-[Notes on New Skorohod Theorem Proof (7-11-23 Update)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/notes-on-new-skorohod-theorem-proof-7-11-23-update.pdf)
 
--[M800 Roger Temam 9-7-23 Report (First Draft)]()
+-[M800 Roger Temam 9-7-23 Report (First Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-9-7-23-report-first-draft.pdf)
 
--[Skorohod's Theorem Paper Unofficial Second Draft (12-1-23 Update)]()
+-[Skorohod's Theorem Paper Unofficial Second Draft (12-1-23 Update)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/skorohods-theorem-paper-unofficial-second-draft-12-1-23.pdf)
