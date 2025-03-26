@@ -38,3 +38,7 @@ Summer/Fall 2023 Semester
 -[M800 Roger Temam 9-7-23 Report (First Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-9-7-23-report-first-draft.pdf)
 
 -[Skorohod's Theorem Paper Unofficial Second Draft (12-1-23 Update)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/skorohods-theorem-paper-unofficial-second-draft-12-1-23.pdf)
+
+Spring 2024 Semester
+
+-[Skorohod's Theorem Paper Unofficial Second Draft (3-8-24 Update)](https://agoodlad-research-notes.github.io/iu-research-paper-draft-portfolio/skorohods-theorem-paper-unofficial-second-draft-3-8-24-update.pdf)
