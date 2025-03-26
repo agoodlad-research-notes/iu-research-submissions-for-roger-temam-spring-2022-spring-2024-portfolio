@@ -16,13 +16,15 @@ The overall goal of is to do what I haven't seen the literature that I've looked
 
 Though going this route is so abstract that doing a dissertation topic on this will probably only establish the framework and establish only the basic measure theoretic properties that can be applied to stochastic calculus, it is still worth exploring with the possibility in mind that perhaps some open problems in stochastic partial differential equations (ones similar to what I learned in Dr. Temam's courses on stochastic processes) can be solved by looking at the equations from the perspective of random differentials and applying the these various measure theoretic properties discovered about random measure, in ways analogous to the deterministic cases, to solve such diffy-q's.
 
+### Spring 2022 Semester
+
 -[M800 Roger Temam 4-8-22 Corrected Report (4-22-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-corrected-report-4-22-22-rough-draft.pdf)
 
 -[M800 Roger Temam 4-15-22 Report (5-4-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-15-22-report-5-4-22-rough-draft.pdf)
 
 -[M800 Roger Temam 4-22-22 Report (5-4-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-22-report-5-4-22-rough-draft.pdf)
 
-Summer/Fall 2022 Semester
+### Summer/Fall 2022 Semester
 
 -[M800 Roger Temam 4-22-22 Report (7-19-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-22-22-report-7-19-22-rough-draft.pdf)
 
@@ -30,13 +32,13 @@ Summer/Fall 2022 Semester
 
 -[M800 Roger Temam 4-8-22 Report (8-30-22 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-8-30-22-rough-draft.pdf)
 
-Spring 2023 Semester
+### Spring 2023 Semester
 
 -[M800 Roger Temam 4-8-22 Report (1-17-23 Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-8-22-report-1-17-23-rough-draft.pdf)
 
 -[M800 Roger Temam 4-4-23 Report (First Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/m800-roger-temam-4-4-23-report-first-draft.pdf)
 
-Summer/Fall 2023 Semester
+### Summer/Fall 2023 Semester
 
 -[Notes on New Skorohod Theorem Proof (6-15-23 Unofficial Rough Draft)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/notes-on-new-skorohod-theorem-proof-6-15-23-unofficial-rough-draft.pdf)
 
@@ -46,6 +48,6 @@ Summer/Fall 2023 Semester
 
 -[Skorohod's Theorem Paper Unofficial Second Draft (12-1-23 Update)](https://agoodlad-research-notes.github.io/iu-research-submissions-for-roger-temam-spring-2022-spring-2024-portfolio/skorohods-theorem-paper-unofficial-second-draft-12-1-23.pdf)
 
-Spring 2024 Semester
+### Spring 2024 Semester
 
 -[Skorohod's Theorem Paper Unofficial Second Draft (3-8-24 Update)](https://agoodlad-research-notes.github.io/iu-research-paper-draft-portfolio/skorohods-theorem-paper-unofficial-second-draft-3-8-24-update.pdf)
